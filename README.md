@@ -138,14 +138,14 @@ The distributed word count algorithm was applied to the full dataset of approxim
 
 ### Word Count Analysis
 
-![Word Frequency Distribution](2.png)
+![Word Frequency Distribution](results/2.png)
 
 
 2. Country and University Representation
 Our analysis of author affiliations provided insights into the global research landscape on COVID-19. The countries and universities with the highest representation in the dataset were identified, highlighting regions and institutions that are heavily involved in COVID-19 research. Conversely, regions with lower representation were also noted, suggesting areas where research output might be less concentrated.
 
 ### The countries and universities with the highest representation
-![The countries and universities with the highest representation](3.png)
+![The countries and universities with the highest representation](results/3.png)
 
 3. Title Embedding and 4.Cosine Similarity
 Using pre-trained FastText embeddings, we converted the titles of the research papers into vector representations. We then computed the cosine similarity between these vectors to assess how closely related the paper titles were.
