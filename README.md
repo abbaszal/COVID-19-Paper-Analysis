@@ -152,7 +152,7 @@ Using pre-trained FastText embeddings, we converted the titles of the research p
 
 ### Embedding
 
-![Embedding](4.png)
+![Embedding](results/4.png)
 
 Key Findings:
 Most Similar Papers: The pair of papers with the highest cosine similarity score shared extremely close thematic content, as reflected in their titles. The maximum similarity score was 0.96, with the following titles:
